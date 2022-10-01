@@ -1,0 +1,34 @@
+---
+title: "Question 10"
+author: "Chenyang WWang"
+date: "2022-10-01"
+output: xaringan::moon_reader
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## R Markdown Section 1
+This is my first R Markdown Section.
+```{r}
+print(6+6)
+```
+---
+## R Markdown Section 2
+This is my second R markdown Section.
+```{r}
+print(7+9*6)
+```
+---
+## R Markdown Section 3
+This is my third R markdown Section.
+```{r}
+print(3+7**2)
+```
+---
+## R Markdown Section 4
+This is my forth R markdown Section.
+```{r}
+print(3+6**7)
+```
+
